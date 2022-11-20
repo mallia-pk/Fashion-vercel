@@ -15,5 +15,6 @@ Flask-Minify==0.37
 ftfy
 scikit-learn
 pandas
+mysql-connector-python
 
 # flask_mysqldb
