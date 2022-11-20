@@ -16,5 +16,6 @@ ftfy
 scikit-learn
 pandas
 mysql-connector-python
+PyMySQL
 
 # flask_mysqldb
