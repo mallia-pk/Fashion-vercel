@@ -17,5 +17,6 @@ scikit-learn
 pandas
 mysql-connector-python
 PyMySQL
+Flask-MySQLdb 
 
 # flask_mysqldb
